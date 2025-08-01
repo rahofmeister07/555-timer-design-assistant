@@ -39,17 +39,3 @@ This project was written in C and can be compiled using `gcc`.
 ### Compilation:
 ```bash
 gcc 555TimerDesignAssistant.c -o 555TimerDesignAssistant
-
----
-
-## Files Included
-- 555TimerDesignAssistant.c - The main source code
-- 555 Timer Design Assistant Write-Up - Project report detailing design, approach, and reflection
-- Images – State machine diagram and code snippet visuals
-
----
-
-## Author
-**Rudolph Hofmeister**
-Programming for Electronics – Final Project
-July 2025
