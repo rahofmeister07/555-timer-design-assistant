@@ -28,8 +28,6 @@ The tool supports both **monostable** and **astable** configurations, and allows
 ### Sample Output
 ![Sample Output](SampleOutput.PNG)
 
-> (Replace these with the actual image file names in your repo)
-
 ---
 
 ## How to Compile and Run
