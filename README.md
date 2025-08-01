@@ -20,10 +20,13 @@ The tool supports both **monostable** and **astable** configurations, and allows
 ## Screenshots
 
 ### Program Flow (State Diagram)
-![State Diagram](path/to/state-diagram.png)
+![State Diagram](555TimerDesignAssistantStates.PNG)
 
 ### Sample Code (Calculation Function)
-![Code Snippet](path/to/code-snippet.png)
+![Code Snippet](CalculateState.PNG)
+
+### Sample Output
+![Sample Output](SampleOutput.PNG)
 
 > (Replace these with the actual image file names in your repo)
 
